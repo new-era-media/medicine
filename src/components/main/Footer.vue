@@ -4,29 +4,23 @@
       <div class="contacts">
         <div class="headFoot">
           <h2>Режим и график работы:</h2>
-          <p>Понедельник-суббота с 10:00 до 20:00</p>
+          <p>Понедельник-суббота с 9:00 до 20:00</p>
         </div>
 
         <div class="headFoot">
           <h2>Адрес организации:</h2>
           <p>
-            ул. Московская, 11, Александровское, Ставропольский край, 356300
+            Ставропольский край, г.Кисловодск, ул. Парковая 1А
           </p>
         </div>
 
         <div class="headFoot">
           <h2>Телефон:</h2>
-          <p><a href="tel:+79034159522">+7-(903)-415-95-22</a></p>
+          <p><a href="tel:+79283722220">+7-(928)-372-22-20</a></p>
         </div>
 
         <div class="headFoot icons">
-          <a
-            href="https://www.instagram.com/centr_zdorovya26/"      
-            target="_blank"
-          >
-            <div class="icon1"></div>
-          </a>
-          <a href="mailto:center.zdorovya@mail.ru" target="_blank">
+          <a href="mailto:kislovodsk_medicinabezgranic@mail.ru" target="_blank">
             <div class="icon2"></div>
           </a>
         </div>
@@ -81,13 +75,6 @@
   </div>
 </template>
 <style lang="scss" scoped>
-.icon1 {
-  margin: 0 10px 0 10px;
-  width: 50px;
-  height: 80px;
-  background-size: contain !important;
-  background: url("../../assets/img/instagram.png") center center no-repeat;
-}
 .icon2 {
   margin: 0 10px 0 10px;
   width: 50px;

@@ -2,15 +2,15 @@
   <div class="first-container" id="menu">
     <Menu />
     <!-- номер телефона -->
-    <a href="tel:+79034159522">
+    <a href="tel:+79283722220">
       <div class="phone-icon">
         +7-
-        <span class="textColor">(903)</span>-415-95-22
+        <span class="textColor">(928)</span>-372-22-20
       </div>
     </a>
     <div class="firstContainer">
       <h1 class="firstContainerTextOne">
-        <span class="textColor">Стоматологическая клиника "Центр здоровья"</span>
+        <span class="textColor">Стоматологическая клиника "Медицина без границ"</span>
       </h1>
       <vue-typer
         :text="[

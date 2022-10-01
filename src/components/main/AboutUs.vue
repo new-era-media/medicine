@@ -5,7 +5,7 @@
     </div>
     <div class="text" data-aos="fade-up">
       <p class="info">
-        Клиника современной стомотологии <strong>"ООО" Центр Здоровья"</strong>,
+        Клиника современной стомотологии <strong>ООО "Медицина без границ"</strong>,
         мы предлагаем своим пациентам широкий спектр стоматологических услуг от
         лечения кариеса до установки имплантов.
       </p>
@@ -18,11 +18,11 @@
       <p class="info">
         Наш адрес:
         <strong
-          >Ставропольский край, c. Александровское, ул. Московская, 11</strong
+          >Ставропольский край, г.Кисловодск, ул. Парковая 1А</strong
         >
       </p>
-      <p class="info">Время работы: <strong>10:00 - 20:00</strong></p>
-      <p class="info">Наша почта: <strong>center.zdorovya@mail.ru</strong></p>
+      <p class="info">Время работы: <strong>9:00 - 20:00</strong></p>
+      <p class="info">Наша почта: <strong>kislovodsk_medicinabezgranic@mail.ru</strong></p>
     </div>
   </div>
 </template>
